@@ -17,6 +17,10 @@ p{
     font-size:30px;
     color:#ff0000;
 }
+p{
+    color:red;
+    text-align:red;
+}
 
 h2{
     text-align:center;
