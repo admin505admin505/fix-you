@@ -2,6 +2,16 @@ body{
     background:black;
 }
 
+h6{
+    color:red;
+    text-align:center;
+}
+
+icons{
+    color:red;
+    text-align:center;
+}
+
 p{
     text-align:center;
     font-size:30px;
@@ -28,15 +38,7 @@ h1{
     text-align:center;
 }
 
-h6{
-    color:red;
-    text-align:center;
-}
 
-icons{
-    color:red;
-    text-align:center;
-}
 
 div{
     color:cyan;
