@@ -9,7 +9,6 @@ h5{
 
 icons{
     color:red;
-    text-align:center;
 }
 
 p{
@@ -17,10 +16,7 @@ p{
     font-size:30px;
     color:#ff0000;
 }
-p{
-    color:lime;
-    text-align:red;
-}
+
 
 h2{
     text-align:center;
@@ -34,7 +30,6 @@ h3{
 }
 
 label{
-    color:red;
     text-align:center;
 }
 h1{
